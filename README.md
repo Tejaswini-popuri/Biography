@@ -10,7 +10,7 @@ Talking about Personal Stuffs:
   👨🏻‍💻   Most of my projects are available on GitHub.
   💬   Ask me about anything here! I am happy to help.
   📫   How to reach me: popuritejaswini92@gmail.com.
-  📝   Checkout my Resume.
+  📝   Checkout my Resume in the files section
 
 My Absolute Favorites:
   📰   Reading tech blogs or listening to tech talks whenever possible.
