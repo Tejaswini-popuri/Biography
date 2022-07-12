@@ -6,20 +6,20 @@ Glad to see you here!  I'm a graduate in Aeronautical Engineering 🎓 from JNTU
 A newbie on GitHub but I believe in better late than never!!!! 
 
 Talking about Personal Stuffs:
-  🚀   I’m currently working on obtaining Data Engineering Certification in GCP & AWS
-  👨🏻‍💻   Most of my projects are available on GitHub.
-  💬   Ask me about anything here! I am happy to help.
-  📫   How to reach me: popuritejaswini92@gmail.com.
-  📝   Checkout my Resume in the files section
+  1. 🚀   I’m currently working on obtaining Data Engineering Certification in GCP & AWS
+  2. 👨🏻‍💻   Most of my projects are available on GitHub.
+  3. 💬   Ask me about anything here! I am happy to help.
+  4. 📫   How to reach me: popuritejaswini92@gmail.com.
+  5. 📝   Checkout my Resume in the files section
 
 My Absolute Favorites:
-  📰   Reading tech blogs or listening to tech talks whenever possible.
+     📰   Reading tech blogs or listening to tech talks whenever possible.
 
 Languages and Tools:
-  C, Java, Python, SQL, Mongo dB, Git, Bash, Snowflake, Teradata, SQL server, MySQL, Oracle DB, SQLite, PostgreSQL, Tableau, Informatica PowerCenter, Jupyter Notebook, Amazon Athena
+     C, Java, Python, SQL, Mongo dB, Git, Bash, Snowflake, Teradata, SQL server, MySQL, Oracle DB, SQLite, PostgreSQL, Tableau, Informatica PowerCenter, Jupyter Notebook, Amazon Athena
 Analytics and Data Science:  
-    Data Mining & Analytics, Excel for Analytics, Machine learning, Supervised and Unsupervised learning, Reinforcement Learning, Time Series, Sentiment Analysis, Click Stream Analytics, Business Intelligence
+     Data Mining & Analytics, Excel for Analytics, Machine learning, Supervised and Unsupervised learning, Reinforcement Learning, Time Series, Sentiment Analysis, Click Stream Analytics, Business Intelligence
 Technologies: 
-  ETL, Apache Spark, NoSQL databases, MapReduce algorithms, Pandas, NumPy, Seaborn, Scikitlearn, Distributed File Systems
+     ETL, Apache Spark, NoSQL databases, MapReduce algorithms, Pandas, NumPy, Seaborn, Scikitlearn, Distributed File Systems
 
 
