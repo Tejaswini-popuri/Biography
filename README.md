@@ -2,7 +2,7 @@
 Hey 👋, I'm Tejaswini Kambhampati!
 
 Glad to see you here!   
-I'm a graduate in Aeronautical Engineering 🎓 from JNTU ,India 🏛 and currently pursuing my masters in Santa Clara University. 
+I'm a graduate in Aeronautical Engineering 🎓 from JNTU ,India 🏛 and currently pursuing my masters in MAnagement Information Systems in Santa Clara University . 
 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. 
 I love to explore new technologies and leverage them to solve real-life problems ✨. 
 Apart from that I love Singing, Running, listening to Books & Podcasts
